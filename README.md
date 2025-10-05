@@ -34,10 +34,6 @@ Allows users to register, book appointments with doctors, recover passwords via 
 
 ## 📁 Project Structure
 
-Below is a rough idea of how your project is organized:
-
-```
-
 Hospital-Management-System-JSP-_Servlet/
 │
 ├── src/                    # Java source files (Servlets, utils, etc.)
@@ -113,9 +109,6 @@ cd Hospital-Management-System-JSP-_Servlet
 ---
 
 ## 📷 Screenshots / UI Preview
-
-Add some screenshots here to show your UI flow:
-
 ```markdown
 ![Home Page](Hospital_Management_System/screenshots/Home Page - 1.png)  
 ![Doctor Listing](screenshots/doctor_list.png)  
