@@ -47,8 +47,6 @@ Hospital-Management-System-JSP-_Servlet/
 ├── README.md               # This file
 └── (other config files)    # e.g. properties, context, .gitignore
 
-````
-
 ---
 
 ## 🏁 Setup & Installation
