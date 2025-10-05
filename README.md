@@ -109,7 +109,7 @@ cd Hospital-Management-System-JSP-_Servlet
 ---
 
 ## 📷 Screenshots / UI Preview
-```markdown
+
 ![Home Page](Hospital_Management_System/screenshots/Home Page - 1.png)  
 ![Doctor Listing](screenshots/doctor_list.png)  
 ![Appointment Booking](screenshots/book_appointment.png)  
