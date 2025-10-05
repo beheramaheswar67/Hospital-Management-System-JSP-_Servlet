@@ -110,12 +110,19 @@ cd Hospital-Management-System-JSP-_Servlet
 
 ## 📷 Screenshots / UI Preview
 ![Home Page](Hospital_Management_System/screenshots/Home%20Page%20-%201.png)
-![Doctor Listing](screenshots/doctor_list.png)  
-![Appointment Booking](screenshots/book_appointment.png)  
-![Admin Dashboard](screenshots/admin_dashboard.png)
-![Doctor Listing](screenshots/doctor_list.png)  
-![Appointment Booking](screenshots/book_appointment.png)  
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Home Page 2](Hospital_Management_System/screenshots/Home%20Page%20-%202.png)
+![Home Page 3](Hospital_Management_System/screenshots/Home%20Page%20-%203.png)
+![Admin Login](Hospital_Management_System/screenshots/Admin%20Login.png)
+![Admin Dashboard](Hospital_Management_System/screenshots/Admin%20Dashboard.png)
+![Admin Login](Hospital_Management_System/screenshots/Admin%20Login.png)
+![Doctor Login](Hospital_Management_System/screenshots/Doctor%20Login.png)
+![User Login](Hospital_Management_System/screenshots/User%20Login.png)
+![User Page](Hospital_Management_System/screenshots/User%20Page.png)
+![Forgot Password](Hospital_Management_System/screenshots/Forgot%20Password.png)
+
+
+ 
+
 ```
 
 
