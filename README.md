@@ -1,6 +1,3 @@
-Cool — I checked out your repository. Here’s a tailored **README.md** based on your project’s structure, features, and tech stack. Feel free to tweak or expand it as needed.
-
-```markdown
 # Hospital Management System (JSP & Servlet)
 
 A **Doctor Appointment Booking System** built using **Java (JSP, Servlet, JDBC, MySQL)**.  
