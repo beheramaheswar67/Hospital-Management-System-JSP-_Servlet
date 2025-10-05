@@ -117,7 +117,10 @@ cd Hospital-Management-System-JSP-_Servlet
 Add some screenshots here to show your UI flow:
 
 ```markdown
-![Home Page]([screenshots/home.png](https://github.com/beheramaheswar67/Hospital-Management-System-JSP-_Servlet/blob/main/Hospital_Management_System/screenshots/Home%20Page%20-%201.png))  
+![Home Page](Hospital_Management_System/screenshots/Home Page - 1.png)  
+![Doctor Listing](screenshots/doctor_list.png)  
+![Appointment Booking](screenshots/book_appointment.png)  
+![Admin Dashboard](screenshots/admin_dashboard.png)
 ![Doctor Listing](screenshots/doctor_list.png)  
 ![Appointment Booking](screenshots/book_appointment.png)  
 ![Admin Dashboard](screenshots/admin_dashboard.png)
