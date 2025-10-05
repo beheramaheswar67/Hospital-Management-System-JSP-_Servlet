@@ -119,9 +119,6 @@ cd Hospital-Management-System-JSP-_Servlet
 ![Forgot Password](Hospital_Management_System/screenshots/Forgot%20Password.png)
 
 
- 
-
-```
 
 
 ## 🧩 Future Enhancements / To-Do
@@ -133,7 +130,6 @@ cd Hospital-Management-System-JSP-_Servlet
 * Add report generation (PDFs, statistics)
 * Integrate external APIs (lab tests, insurance, etc.)
 
----
 
 ## ✅ How to Contribute
 
