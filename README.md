@@ -110,7 +110,10 @@ cd Hospital-Management-System-JSP-_Servlet
 
 ## 📷 Screenshots / UI Preview
 
-[![Home Page](Hospital_Management_System/screenshots/Home%20Page%20-%201.png)](Hospital_Management_System/screenshots/Home%20Page%20-%201.png)
+<a href="https://github.com/beheramaheswar67/Hospital-Management-System-JSP-_Servlet/blob/main/screenshots/Home%20Page%20-%201.png?raw=true" target="_blank">
+  <img src="https://github.com/beheramaheswar67/Hospital-Management-System-JSP-_Servlet/blob/main/screenshots/Home%20Page%20-%201.png?raw=true" alt="Home Page" width="500"/>
+</a>
+
  
 ![Doctor Listing](screenshots/doctor_list.png)  
 ![Appointment Booking](screenshots/book_appointment.png)  
